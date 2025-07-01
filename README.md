@@ -1,5 +1,10 @@
 # System Analyzer – Installationsanleitung
 
+|![sysanalyzer2](https://github.com/user-attachments/assets/9c543377-9d02-438e-93e1-6d9dec29bc62)|
+|---|
+
+---
+
 ## Überblick
 
 **System Analyzer** ist eine moderne Systemanalyse-Anwendung, entwickelt in **Python** mit **NumPy** als leistungsfähige Grundlage für numerische Analysen und Statistik.  
