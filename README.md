@@ -1,3 +1,6 @@
+|[![Python package](https://github.com/bylickilabs/SystemAnalyzer-2.0/actions/workflows/python-package.yml/badge.svg)](https://github.com/bylickilabs/SystemAnalyzer-2.0/actions/workflows/python-package.yml)| ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) |![NumPy](https://img.shields.io/badge/Powered%20by-NumPy-013243?logo=numpy) |
+|---|---|---|
+
 # System Analyzer – Installationsanleitung
 
 |![sysanalyzer2](https://github.com/user-attachments/assets/9c543377-9d02-438e-93e1-6d9dec29bc62)|
