@@ -30,7 +30,8 @@ jobs:
 
       - name: Ensure at least one test exists (Dummy)
         run: |
-          echo "def test_dummy():\n    assert True" > test_dummy.py
+          echo "def test_dummy():" > test_dummy.py
+          echo "    assert True" >> test_dummy.py
 
       - name: Lint with flake8
         run: |
